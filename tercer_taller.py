@@ -23,10 +23,10 @@ Que vamos a ver hoy:
 import os  # Librería para interactuar con el sistema operativo
 
 # Cambio de directorio
-ruta_nueva = 'C:/Users/marce/OneDrive/Documentos/OneDrive/Documentos/Agricultura_digital/programación'  # Especifica la ruta deseada
-os.chdir(ruta_nueva)  # Cambia el directorio de trabajo
-nueva_ruta = os.getcwd()  # Obtiene la ruta actual para verificar el cambio
-print(nueva_ruta)  # Imprime la nueva ruta actual
+# ruta_nueva = '/Agricultura_digital/programación'  # Especifica la ruta deseada
+# os.chdir(ruta_nueva)  # Cambia el directorio de trabajo
+# nueva_ruta = os.getcwd()  # Obtiene la ruta actual para verificar el cambio
+# rint(nueva_ruta)  # Imprime la nueva ruta actual
 
 # Ejemplos de uso de print()
 print('I hope everyone is enjoying the Python Challenge.\nAre you ?')  # \n crea un salto de línea

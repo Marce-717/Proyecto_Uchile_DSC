@@ -17,7 +17,7 @@ viernes: 25-04-2025
 
 Que vamos a ver hoy:
     1) Como manejar string y números dentro de la función print()
-    2) Funciones del lenguaje (capitalize(), upper(), lower(), count())
+    2) Funciones del lenguaje (capitalize(), upper(), lower(), count()) 
 """
 
 import os  # Librería para interactuar con el sistema operativo
